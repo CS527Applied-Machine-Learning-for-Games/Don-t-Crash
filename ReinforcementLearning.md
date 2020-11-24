@@ -12,7 +12,7 @@ We tested our agent on a number of different reward functions, such as a coordin
 
 For example, below is the path taken by the car during training of the DQN Roundabout objective, it shows the agent going further as the number of episodes increases.
 
-<iframe width="700" height="400" src="https://drive.google.com/file/d/12NUFDWdM5Hf_AiRWUpoGHWNDT-jdlwix/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://drive.google.com/file/d/12NUFDWdM5Hf_AiRWUpoGHWNDT-jdlwix/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
