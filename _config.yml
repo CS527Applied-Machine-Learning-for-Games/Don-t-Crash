@@ -1,7 +1,6 @@
 title: Don't Crash
 
 header_pages:
- - index.md
  - ImitationLearning.md
  - ReinforcementLearning.md
  - ComputerVision.md
