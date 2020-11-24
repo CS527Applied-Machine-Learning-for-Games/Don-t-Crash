@@ -11,12 +11,11 @@ Computer Vision is an important part of the autonomous driving pipeline. By empl
 ## Mask R-CNN
 In this method ....(insert explanation)
 
-![RCNN1](images/Rcnn1.png =250x) 
-
-![RCNN2](images/rcnn2.png =250x)
+![RCNN1](images/Rcnn1.png =316x179) 
+![RCNN2](images/rcnn2.png =316x179)
 
 ## YOLO
 In this method, we use a sliding window technique to detect and classify objects with high speed and accuracy in a single pass. For the purposes of our project, we decided to use YOLO v4.
 
-![YOLO1](images/cars yolo.JPG =250x)
-![YOLO2](images/pedestrian2 yolo.JPG =250x)
+![YOLO1](images/cars yolo.JPG =316x179)
+![YOLO2](images/pedestrian2 yolo.JPG =316x179)
