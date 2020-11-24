@@ -15,7 +15,7 @@ Mask R-CNN is an instance segmentation technique, which locates each pixel of an
 ![RCNN1](images/Rcnn1.png)
 ![RCNN2](images/rcnn2.png)
 
-## YOLO
+## YOLO v3
 YOLO is a technique which can be used to detect and classify objects with high speed and accuracy in a single pass. It does this by dividing the image into multiple regions, predicting bounding boxes for objects in the image, and using weighted probabilities to classify the objects. For the purposes of our project, we decided to use YOLO v3 over Mask R-CNN due to its high speed and accuracy.
 
 ![YOLO1](images/carsyolo.jpg)
