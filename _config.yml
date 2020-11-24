@@ -1,8 +1,5 @@
 title: Don't Crash
 
-header_pages:
- - ImitationLearning.md
-
 show_excerpts: false # set to true to show excerpts on the homepage
 
 theme: jekyll-theme-merlot
