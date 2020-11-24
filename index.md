@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Don't Crash
-permalink: /Home/
 ---
 
 # Don't Crash : Just stop with style
