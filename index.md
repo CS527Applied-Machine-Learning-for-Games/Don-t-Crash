@@ -28,5 +28,7 @@ The goal of this project is to build an agent to perform autonomous driving in a
 Check out the detailed implementations for more information below.
 
 [Imitation Learning](https://cs527applied-machine-learning-for-games.github.io/Don-t-Crash/Imitation%20Learning/)
+
 [Reinforcement Learning](https://cs527applied-machine-learning-for-games.github.io/Don-t-Crash/Reinforcement%20Learning/)
+
 [Computer Vision](https://cs527applied-machine-learning-for-games.github.io/Don-t-Crash/Computer%20Vision/)
