@@ -1,7 +1,12 @@
+title: Don't Crash
 
 header_pages:
  - ImitationLearning.md
  - ReinforcementLearning.md
 
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot
+theme: minima
 
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
