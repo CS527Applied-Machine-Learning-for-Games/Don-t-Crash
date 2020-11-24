@@ -11,7 +11,7 @@ Computer Vision is an important part of the autonomous driving pipeline. By empl
 ## Mask R-CNN
 In this method ....(insert explanation)
 
-![RCNN1](images/Rcnn1.png =316x179) 
+<img src="images/Rcnn1.png" alt="Rcnn1" width="316" height="179"> 
 ![RCNN2](images/rcnn2.png =316x179)
 
 ## YOLO
