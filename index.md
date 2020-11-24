@@ -13,7 +13,7 @@ The goal of this project is to build an agent to perform autonomous driving in a
 ## Demo Video
 <iframe width="700" height="400" src="https://drive.google.com/file/d/1ivHQo7N_lH4rKhJWSKiYnX59hdodJGTe/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+Check out our presentation slides for the project [here](https://docs.google.com/presentation/d/1ETzP-wLEZ-SeZNS6iKyou26QeEb8z58x8mYloe3I3Ms/edit?usp=sharing)
 
 ## Team
 * [Abhilash Karpurapu](https://www.linkedin.com/in/abhilash-karpurapu-5b7275131/)
