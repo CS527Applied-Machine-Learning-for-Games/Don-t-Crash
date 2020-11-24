@@ -13,16 +13,16 @@ Mask R-CNN is an instance segmentation technique, which locates each pixel of an
 
 Mask R-CNN is a progressively improved technique, from R-CNN, Fast R-CNN, Faster R-CNN to Mask-RCNN. It uses a backbone CNN network of ResNet50 architecture or an FPN to convert the image into a feature map from (1024x1024px x 3) to (32x32x2048)
 
-![RCNN1](images/Rcnn1.png)
-![RCNN2](images/rcnn2.png)
+<div align="center">![RCNN1](images/Rcnn1.png)
+![RCNN2](images/rcnn2.png)</div>
 
 ## YOLO
 In this method, we use a sliding window technique to detect and classify objects with high speed and accuracy in a single pass. For the purposes of our project, we decided to use YOLO v3 over Mask R-CNN due to its high speed and accuracy.
 
-![YOLO1](images/carsyolo.jpg)
-![YOLO2](images/pedestrian2yolo.jpg)
+<div align="center">![YOLO1](images/carsyolo.jpg)
+![YOLO2](images/pedestrian2yolo.jpg)</div>
 
 Based on YOLO, we designed a closeness metric which takes into account the size of the object along with the length of the perpendicular drawn from the object to the bottom of the image. This allows the car to prioritize avoiding collision with objects closest to it.
 
-![Closeness in City Environment](images/closeness_city.jpg)
-![Closeness in Custom Environment](images/closeness_custom.png)
+<div align="center">![Closeness in City Environment](images/closeness_city.jpg)
+![Closeness in Custom Environment](images/closeness_custom.png)</div>
