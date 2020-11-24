@@ -1,3 +1,9 @@
+---
+layout: default
+title: Reinforcement Learning
+permalink: /Reinforcement Learning/
+---
+
 # Reinforcement Learning
 
 
