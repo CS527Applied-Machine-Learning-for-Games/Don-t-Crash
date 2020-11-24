@@ -1,2 +1,7 @@
+
+header_pages:
+ - ImitationLearning.md
+ - ReinforcementLearning.md
+
 theme: jekyll-theme-merlot
 
