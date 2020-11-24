@@ -1,9 +1,2 @@
-title: Don't Crash
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
 theme: jekyll-theme-merlot
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
