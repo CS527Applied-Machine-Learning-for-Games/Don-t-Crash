@@ -18,4 +18,4 @@ In this method ....(insert explanation)
 In this method, we use a sliding window technique to detect and classify objects with high speed and accuracy in a single pass. For the purposes of our project, we decided to use YOLO v4.
 
 <img src="images/cars yolo.JPG" alt="YOLO with cars" width="250" height="142"> 
-<img src="images/pedestrian2 yolo.JPG" alt="YOLO with pedestrians" width="316" height="179"> 
+<img src="images/pedestrian2 yolo.JPG" alt="YOLO with pedestrians" width="250" height="142"> 
