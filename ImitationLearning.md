@@ -10,4 +10,4 @@ Our first attempts to train a self-driving agent to predict the best course of a
 
 ![Pipelines](images/imitation_pipelines.JPG)
 
-<iframe width="700" height="400" src="https://drive.google.com/file/d/1WCYUzJ4-oyjmJvRUacci7ylIBAmk42OF/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="400" src="https://drive.google.com/file/d/1WCYUzJ4-oyjmJvRUacci7ylIBAmk42OF/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
