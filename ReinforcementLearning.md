@@ -10,9 +10,13 @@ Reinforcement Learning is a type of Machine learning where the autonomous agent 
 
 We tested our agent on a number of different reward functions, such as a coordinate based reward to ensure the car drives on the road, a polar coordinate reward to test the car's performance around a roundabout road and computer vision based rewards to prevent the car from crashing into obstacles.
 
+For example, below is the path taken by the car during training of the DQN Roundabout objective, it shows the agent going further as the number of episodes increases.
+
 <iframe width="700" height="400" src="https://drive.google.com/file/d/12NUFDWdM5Hf_AiRWUpoGHWNDT-jdlwix/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 Here is a video compilation of our agent's performance based on different rewards and environments.
+
 
 <iframe width="700" height="400" src="https://drive.google.com/file/d/1tbRvZnJCk1rearyCT5bVf04Apvfsmj_9/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
