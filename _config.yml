@@ -1,9 +1,12 @@
-title: Don't Crash : Just Stop with Style
 
 
 header_pages:
  - ImitationLearning.md
 
-
+show_excerpts: false # set to true to show excerpts on the homepage
 
 theme: jekyll-theme-merlot
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
