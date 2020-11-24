@@ -16,5 +16,3 @@ The goal of this project is to build an agent to perform autonomous driving in a
 * [Naga Sanketh Vysyaraju](https://www.linkedin.com/in/naga-sanketh-vysyaraju/)
 * [Shreya Kunchakuri](https://www.linkedin.com/in/shreya-kunchakuri-743662125/)
 
-
-
