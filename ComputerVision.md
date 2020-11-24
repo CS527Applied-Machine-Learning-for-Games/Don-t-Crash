@@ -19,8 +19,8 @@ Mask R-CNN is a progressively improved technique, from R-CNN, Fast R-CNN, Faster
 ## YOLO
 In this method, we use a sliding window technique to detect and classify objects with high speed and accuracy in a single pass. For the purposes of our project, we decided to use YOLO v3 over Mask R-CNN due to its high speed and accuracy.
 
-![YOLO1](images/cars yolo.JPG)
-![YOLO2](images/pedestrian2 yolo.JPG)
+![YOLO1](images/carsyolo.JPG)
+![YOLO2](images/pedestrian2yolo.JPG)
 
 Based on YOLO, we designed a closeness metric which takes into account the size of the object along with the length of the perpendicular drawn from the object to the bottom of the image. This allows the car to prioritize avoiding collision with objects closest to it.
 
