@@ -3,7 +3,7 @@ layout: default
 title: Don't Crash
 ---
 
-# Don't Crash : Just stop with style
+# <div align="center">Don't Crash : Just stop with style</div>
 
 ![alt-text](/images/carcityenvt.JPG "Don't Crash")
 
