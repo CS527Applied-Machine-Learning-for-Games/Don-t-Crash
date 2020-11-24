@@ -17,7 +17,7 @@ Mask R-CNN is a progressively improved technique, from R-CNN, Fast R-CNN, Faster
 ![RCNN2](images/rcnn2.png)
 
 ## YOLO
-In this method, we use a sliding window technique to detect and classify objects with high speed and accuracy in a single pass. For the purposes of our project, we decided to use YOLO v4.
+In this method, we use a sliding window technique to detect and classify objects with high speed and accuracy in a single pass. For the purposes of our project, we decided to use YOLO v3.
 
 ![YOLO1](images/cars yolo.JPG)
 ![YOLO2](images/pedestrian2 yolo.JPG)
