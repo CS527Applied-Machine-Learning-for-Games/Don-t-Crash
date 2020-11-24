@@ -3,6 +3,7 @@ title: Don't Crash
 header_pages:
  - ImitationLearning.md
  - ReinforcementLearning.md
+ - ComputerVision.md
 
 # theme: jekyll-theme-merlot
 theme: minima
