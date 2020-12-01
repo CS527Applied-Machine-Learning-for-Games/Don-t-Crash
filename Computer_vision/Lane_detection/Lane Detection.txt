@@ -1,1 +1,1 @@
-The three models are placed in this folder
+The python files of three models are placed in this folder
