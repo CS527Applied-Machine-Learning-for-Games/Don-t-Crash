@@ -1,17 +1,23 @@
-# Don't Crash : Just stop with style
+---
+layout: default
+title: Don't Crash
+---
 
-![Image of a Car](images/roundabout.png)
+# Don't Crash : Just Stop with Style
 
-### Problem Statement
-The goal of this project is to build an agent to perform autonomous driving in a simulated environment. Autonomous driving is an important area of research as it can make roads safer  by helping to reduce the number of avoidable accidents caused by human error in driving. It can also allow those with disabilities or senior citizens to be able to travel independently and safely. Simulation is a key to self-driving research, because we can test customized situations without facing real-world consequences. For our project, we have been using AirSim, a simulation environment created for autonomous driving research. We would like to test various objectives, such as longest distance without crashing, longest time without crashing, smooth driving, speed, interacting with moving pedestrians, cars. We want to build on AirSim’s framework by employing Computer Vision algorithms for perception and training a Reinforcement Learning agent to perceive and act in our simulation. Furthermore, we wish to compare the agent’s performance when trained on Reinforcement learning and Imitation learning.
+![Don't Crash](images/carcityenvt.JPG)
 
-#### Demo Video of the Project 
-<iframe width="500" height="300" src="https://drive.google.com/file/d/1rzgIjldaCTjWNn65jxPnQ5xmIMGM65DF/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Problem Statement
+The goal of this project is to build an agent to perform autonomous driving in a simulated environment. Autonomous driving is an important area of research as it can make roads safer  by helping to reduce the number of avoidable accidents caused by human error in driving. It can also allow those with disabilities or senior citizens to be able to travel independently and safely. Simulation is key to self-driving research, because we can test customized situations without facing real-world consequences. For our project, we have been using AirSim, a simulation environment created for autonomous driving research and tested our agent on various objectives, such as longest distance without crashing (around 3 kilometers!), longest time without crashing (approximately 7 minutes), smooth driving, and interacting with moving pedestrians and vehicles. We employed Computer Vision algorithms for perception and trained an Imitation Learning agent along with Reinforcement Learning agents to perceive and act in our simulation. Check out our presentation slides for the project [here](https://docs.google.com/presentation/d/1ETzP-wLEZ-SeZNS6iKyou26QeEb8z58x8mYloe3I3Ms/edit?usp=sharing) and our demo below!
 
-#### Imitation Learning:
-[Read through this](ImitationLearning.md)
+## Demo Video
+<iframe width="700" height="400" src="https://drive.google.com/file/d/1ivHQo7N_lH4rKhJWSKiYnX59hdodJGTe/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Team:
+## Technical paper
+
+Access paper PDF [here](https://CS527Applied-Machine-Learning-for-Games.github.io/Don-t-Crash.github.io/Technical_Paper.pdf)
+
+## Team
 * [Abhilash Karpurapu](https://www.linkedin.com/in/abhilash-karpurapu-5b7275131/)
 * [Abhivineet Veeraghanta](https://www.linkedin.com/in/abhivineet/)
 * [Haripriya Dharmala](https://www.linkedin.com/in/haripriya-dharmala/)
@@ -19,3 +25,16 @@ The goal of this project is to build an agent to perform autonomous driving in a
 * [Naga Sanketh Vysyaraju](https://www.linkedin.com/in/naga-sanketh-vysyaraju/)
 * [Shreya Kunchakuri](https://www.linkedin.com/in/shreya-kunchakuri-743662125/)
 
+## Implementation
+
+Check out the detailed implementations for more information below.
+
+[Imitation Learning](https://cs527applied-machine-learning-for-games.github.io/Don-t-Crash/Imitation%20Learning/)
+
+[Reinforcement Learning](https://cs527applied-machine-learning-for-games.github.io/Don-t-Crash/Reinforcement%20Learning/)
+
+[Computer Vision](https://cs527applied-machine-learning-for-games.github.io/Don-t-Crash/Computer%20Vision/)
+
+## Repository
+
+Fork the repo here: [Github](https://github.com/CS527Applied-Machine-Learning-for-Games/Don-t-Crash)
