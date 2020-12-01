@@ -37,4 +37,4 @@ Check out the detailed implementations for more information below.
 
 ## Repository
 
-[Github](https://github.com/CS527Applied-Machine-Learning-for-Games/Don-t-Crash)
+Fork the repo here: [Github](https://github.com/CS527Applied-Machine-Learning-for-Games/Don-t-Crash)
