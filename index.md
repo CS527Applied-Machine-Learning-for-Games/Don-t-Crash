@@ -14,7 +14,7 @@ The goal of this project is to build an agent to perform autonomous driving in a
 <iframe width="700" height="400" src="https://drive.google.com/file/d/1ivHQo7N_lH4rKhJWSKiYnX59hdodJGTe/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Technical paper
-Access paper PDF [here](https://github.com/CS527Applied-Machine-Learning-for-Games/Don-t-Crash/blob/master/Technical_Paper.pdf)
+Access paper PDF [here](Technical_Paper.pdf)
 
 ## Team
 * [Abhilash Karpurapu](https://www.linkedin.com/in/abhilash-karpurapu-5b7275131/)
