@@ -11,7 +11,7 @@ title: Don't Crash
 The goal of this project is to build an agent to perform autonomous driving in a simulated environment. Autonomous driving is an important area of research as it can make roads safer  by helping to reduce the number of avoidable accidents caused by human error in driving. It can also allow those with disabilities or senior citizens to be able to travel independently and safely. Simulation is key to self-driving research, because we can test customized situations without facing real-world consequences. For our project, we have been using AirSim, a simulation environment created for autonomous driving research and tested our agent on various objectives, such as longest distance without crashing (around 3 kilometers!), longest time without crashing (approximately 7 minutes), smooth driving, and interacting with moving pedestrians and vehicles. We employed Computer Vision algorithms for perception and trained an Imitation Learning agent along with Reinforcement Learning agents to perceive and act in our simulation. Check out our presentation slides for the project [here](https://docs.google.com/presentation/d/1ETzP-wLEZ-SeZNS6iKyou26QeEb8z58x8mYloe3I3Ms/edit?usp=sharing) and our demo below!
 
 ## Demo Video
-<iframe width="700" height="400" src="https://drive.google.com/file/d/1ivHQo7N_lH4rKhJWSKiYnX59hdodJGTe/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="450" src="https://drive.google.com/file/d/1ivHQo7N_lH4rKhJWSKiYnX59hdodJGTe/preview" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Technical paper
 
