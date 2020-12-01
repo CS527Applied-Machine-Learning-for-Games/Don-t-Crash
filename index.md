@@ -25,7 +25,7 @@ Access paper PDF [here](https://CS527Applied-Machine-Learning-for-Games.github.i
 
 ## Engineering Design Document
 
-Access EDD [here](https://CS527Applied-Machine-Learning-for-Games.github.io/Don-t-Crash/Technical_Paper.pdf)
+Access EDD [here](https://CS527Applied-Machine-Learning-for-Games.github.io/Don-t-Crash/EDD.pdf)
 
 ## Team
 * [Abhilash Karpurapu](https://www.linkedin.com/in/abhilash-karpurapu-5b7275131/)
