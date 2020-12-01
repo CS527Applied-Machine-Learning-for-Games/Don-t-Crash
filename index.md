@@ -15,12 +15,6 @@ The goal of this project is to build an agent to perform autonomous driving in a
 
 ## Technical paper
 
-<object data="https://CS527Applied-Machine-Learning-for-Games.github.io/Don-t-Crash.github.io/Technical_Paper.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://CS527Applied-Machine-Learning-for-Games.github.io/Don-t-Crash.github.io/Technical_Paper.pdf">
-        <p>This browser does not support the PDF format. To view it <a href="https://CS527Applied-Machine-Learning-for-Games.github.io/Don-t-Crash.github.io/Technical_Paper.pdf">click here</a>.</p>
-    </embed>
-</object>
-
 Access paper PDF [here](https://CS527Applied-Machine-Learning-for-Games.github.io/Don-t-Crash.github.io/Technical_Paper.pdf)
 
 ## Team
