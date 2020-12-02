@@ -1,0 +1,1 @@
+This model was used to drive the car in Airsim's neighborhood environment. The reward function was based on the distance of the car from the center of the road along with penalties for colliding into obstacles.
