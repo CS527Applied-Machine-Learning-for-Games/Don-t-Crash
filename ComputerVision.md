@@ -23,5 +23,5 @@ YOLO is a technique which can be used to detect and classify objects with high s
 
 Based on YOLO, we designed a closeness metric which takes into account the size of the object along with the length of the perpendicular drawn from the object to the bottom of the image. This allows the car to prioritize avoiding collision with objects closest to it.
 
-![Closeness in City Environment](../images/closeness_city.jpg)
+![Closeness in City Environment](images/closeness_city.jpg)
 ![Closeness in Custom Environment](../images/closeness_custom.png)
