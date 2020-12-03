@@ -27,5 +27,5 @@ Access our EDD [here.](https://CS527Applied-Machine-Learning-for-Games.github.io
 * [Naga Sanketh Vysyaraju](https://www.linkedin.com/in/naga-sanketh-vysyaraju/)
 * [Shreya Kunchakuri](https://www.linkedin.com/in/shreya-kunchakuri-743662125/)
 
-## Implementation
+## Website
 For more information, check out our website [here.](https://cs527applied-machine-learning-for-games.github.io/Don-t-Crash/)
